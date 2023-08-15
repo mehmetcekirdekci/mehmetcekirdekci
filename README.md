@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehmet Sefa Çekirdekci. As a skilled backend engineer with 1 year of experience, I have a proven track record of developing and maintaining scalable and efficient server-side applications. 
+<h1 align="center">Hi 👋, I'm Mehmet Sefa Çekirdekci. As a skilled backend engineer with 1.5 year of experience, I have a proven track record of developing and maintaining scalable and efficient server-side applications. 
 My expertise in building RESTful APIs, optimizing database queries, and implementing caching mechanisms has contributed to the successful delivery of numerous projects. 
 As a collaborative team player, I am always willing to share my knowledge and skills with my colleagues, and have a passion for continuous learning and improvement.</h1>
 
